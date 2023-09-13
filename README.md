@@ -1,4 +1,8 @@
 # CANVAS로 제작한 바나나 먹기 게임
+## 개요
+- canvas 기능을 좀 더 잘 사용하고자 학습 용도로 만들었습니다.
+- 참고 사이트
+  - https://developer.mozilla.org/ko/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Create_the_Canvas_and_draw_on_it
 
 ## 이미지 출처
 
